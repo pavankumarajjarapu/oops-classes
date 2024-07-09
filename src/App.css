@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+img{
+  height: 300px;
+}
+.playerDiv{
+  background-color: azure;
+  border: 5px solid rgb(125, 4, 125);
+  display: inline-block;
+  color: brown;
+  font-family: monospace;
+  font-style: italic;
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 15px;
+}
